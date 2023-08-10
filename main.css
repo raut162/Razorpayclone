@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box:hover{
+   
+    box-shadow: 5px 5px 5px black;
+    background-color: aliceblue;
+    
+}
